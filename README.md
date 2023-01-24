@@ -38,7 +38,7 @@ messages in the box and check.
 
 ## Live Demo
 
-[Live Demo Link for the movie recommender](https://micky373-movie-recommender-movie-recommender-30zzn3.streamlit.app/)
+[Live Demo Link](https://micky373-spam-classifier-spam-classifier-ibl2kp.streamlit.app/)
 
 ## Author
 
