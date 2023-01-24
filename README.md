@@ -15,6 +15,10 @@ The spam messages data contains more than 5000 labeled messages.
 - Python
 - Streamlit
 
+## Live Demo
+
+[Live Demo Link](https://micky373-spam-classifier-spam-classifier-ibl2kp.streamlit.app/)
+
 ## Getting Started Locally
 
 > git clone `https://github.com/Micky373/spam_classifier.git`
@@ -35,10 +39,6 @@ messages in the box and check.
 > Then the website will show you the if the message is spam or ham.
 
 > More clear discription about how the recommendation system was built and the API fetching can be found in the `notebooks` folder.
-
-## Live Demo
-
-[Live Demo Link](https://micky373-spam-classifier-spam-classifier-ibl2kp.streamlit.app/)
 
 ## Author
 
