@@ -3,8 +3,10 @@ import pickle  # For loading the model
 
 # For natural language processing related tasks
 import nltk
+nltk.download('punkt')
 from nltk.corpus import stopwords
 from nltk.stem.porter import PorterStemmer
+
 
 with open('models/vectorizer.h5','rb') as f:
     tfidf = pickle.load(f)
