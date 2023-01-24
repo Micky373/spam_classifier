@@ -1,65 +1,53 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Spam Message Classifier
 
-# Project Name
+> In this repo I have done an end to end spam message classifier. In the website a user can pass the message and the model will predict whether the email is spam or ham. I have used a labeled data to train my model and streamlit for the UI and deployment. 
 
-> One paragraph statement about the project.
+The spam messages data contains more than 5000 labeled messages.
 
-![screenshot](./app_screenshot.png)
+![screenshot](./images_and_gifs/app_screenshot.png)
 
-Additional description about the project and its features.
+
+<img  src="./images_and_gifs/demo.gif"> 
+
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Python
+- Streamlit
+
+## Getting Started Locally
+
+> git clone `https://github.com/Micky373/spam_classifier.git`
+
+> cd spam_classifier
+
+> pip install -r requirements.txt
+
+> streamlit run spam_classifier.py
+
+> Then go and on any browser put this link (http://localhost:8501/)
+
+> Then put a message in the box.
+
+> Then the website will show you the if the message is spam or ham.
+
+> More clear discription about how the recommendation system was built and the API fetching can be found in the `notebooks` folder.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link for the movie recommender](https://micky373-movie-recommender-movie-recommender-30zzn3.streamlit.app/)
 
+## Author
 
-## Getting Started
+- GitHub: [@GitHub](https://github.com/Micky373)
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/michaeltamirie/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Micky373/spam_classifier/issues).
 
 ## Show your support
 
@@ -67,10 +55,4 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
+- Special thanks to [CampusX youtube channel](https://www.youtube.com/@campusx-official)
