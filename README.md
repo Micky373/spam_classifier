@@ -42,9 +42,9 @@ messages in the box and check.
 
 ## Author
 
-- GitHub: [@GitHub](https://github.com/Micky373)
+- GitHub: [@Micky](https://github.com/Micky373)
 
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/michaeltamirie/)
+- LinkedIn: [Michael Tamirie](https://www.linkedin.com/in/michaeltamirie/)
 
 ## 🤝 Contributing
 
