@@ -36,7 +36,7 @@ The spam messages data contains more than 5000 labeled messages.
 > If you need there are some `spam` and `ham` messages in the `data` folder, you can pass those
 messages in the box and check.
 
-> Then the website will show you the if the message is spam or ham.
+> Then the website will show you if the message is spam or ham.
 
 > More clear discription about how the recommendation system was built and the API fetching can be found in the `notebooks` folder.
 
